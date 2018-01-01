@@ -1,0 +1,12 @@
+BasedOnStyle: LLVM
+AllowShortCaseLabelsOnASingleLine: true
+BraceWrapping:
+  AfterFunction: true
+BreakBeforeBraces: Custom
+ColumnLimit: 0
+MaxEmptyLinesToKeep: 2
+SortIncludes: false
+SpaceBeforeParens: Never
+TabWidth: 2
+UseTab: ForIndentation
+AlignTrailingComments: false
